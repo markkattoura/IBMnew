@@ -1,1 +1,1 @@
-# IBMnew
+# lab-agile-planning
